@@ -1,4 +1,1 @@
-//javascript
-
-
-inseri no github
+var ac = "escrevi no github";
